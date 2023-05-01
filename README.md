@@ -1,4 +1,4 @@
-# Tech ins
+# :computer: Tech ins :computer:
 
 ## What are tech ins?
 
