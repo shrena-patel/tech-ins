@@ -10,11 +10,9 @@ Tech ins are an opportunity to have a chat with a facilitator 1:1 on how your te
 
 Bring any other questions or blocks you have to the tech in as well!
 
-
-
 ## How often will they happen?
 
-At a minimum, tech ins will happen once in Phase One (weeks one to three) and once in Phase Two (weeks four to six).
+At a minimum, tech ins will happen once in Phase One (weeks one to three) and once in Phase Two (weeks four to six). Your assigned facilitator will schedule a time with you, but also feel free to request a specific time with your facilitator.
 
 If you would like a tech in at any other time, you are welcome to book a time with any of the facilitators. 
 
