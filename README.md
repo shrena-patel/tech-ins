@@ -30,21 +30,20 @@ The facilitator you have a tech in with will probably be different to your Trell
 
 | Name        | Facilitator (Phase 1)   | Facilitator (Phase 2)   | 
 | ----------- | --------------          | ----------------------- | 
-|   Amanda    |                         |                         |
-|   Lauren    |                         |                         | 
-|   Chris     |                         |                         | 
-|   Ektaj     |                         |                         |
-|   Callum    |                         |                         | 
-|   Johnathan |                         |                         | 
-|   Jackson   |                         |                         | 
-|   Brindha   |                         |                         |  
-|   Tayla     |                         |                         | 
-|   Gemma     |                         |                         | 
-|   James B   |                         |                         | 
-|   Kayne     |                         |                         | 
-|   Oscar     |                         |                         | 
-|   Israel    |                         |                         |
-|   Gaby      |                         |                         | 
-|   Jesse     |                         |                         |
-|   James F   |                         |                         |  
-|   Finn      |                         |                         | 
+|   Amanda    |  Kelly                  |                         |
+|   Lauren    |  Emily                  |                         | 
+|   Chris     |  Yosan                  |                         | 
+|   Ektaj     |  Yosan                  |                         |
+|   Callum    |  Kelly                  |                         | 
+|   Johnathan |  Josh                   |                         | 
+|   Jackson   |  Shrena                 |                         | 
+|   Brindha   |  Kelly                  |                         |  
+|   Tayla     |  Emily                  |                         | 
+|   Gemma     |  Shrena                 |                         | 
+|   James     |  Josh                   |                         | 
+|   Kayne     |  Josh                   |                         | 
+|   Oscar     |  Emily                  |                         | 
+|   Israel    |  Israel                 |                         |
+|   Gaby      |  Shrena                 |                         | 
+|   Jesse     |  Josh                   |                         |  
+|   Vera      |  Yosan                  |                         | 
