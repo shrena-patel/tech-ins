@@ -1,5 +1,7 @@
 # :computer: Tech ins :computer:
 
+***After reading through this information, please schedule in a day and time with your assigned facilitator (see the table below) for your first tech in.***
+
 ## What are tech ins?
 
 Tech ins are an opportunity to have a chat with a facilitator 1:1 on how your technical learning is going. We will ask you some questions on some of the following topics:
