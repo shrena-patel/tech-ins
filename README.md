@@ -43,7 +43,7 @@ The facilitator you have a tech in with will probably be different to your Trell
 |   James     |  Josh                   |                         | 
 |   Kayne     |  Josh                   |                         | 
 |   Oscar     |  Emily                  |                         | 
-|   Israel    |  Israel                 |                         |
+|   Israel    |  Shrena                 |                         |
 |   Gaby      |  Shrena                 |                         | 
 |   Jesse     |  Josh                   |                         |  
 |   Vera      |  Yosan                  |                         | 
